@@ -38,7 +38,7 @@
     "dist"
   ],
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.6",
     "debug": "^4.1.1",
     "jszip": "^3.2.1",
     "tree-model": "^1.0.7",
